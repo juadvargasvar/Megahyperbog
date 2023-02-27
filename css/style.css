@@ -2,3 +2,8 @@
     background: black;
     color: white;
 }
+
+.link_home{
+    text-decoration: none;    
+    color:pink;
+}
